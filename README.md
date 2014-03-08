@@ -1,4 +1,4 @@
 proxy
 =====
 
-Provides high-performance algorithms and data structures for proxy objects.
+Provides high-level algorithms and data structures for proxy objects.

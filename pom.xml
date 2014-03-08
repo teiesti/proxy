@@ -7,6 +7,33 @@
 	<groupId>de.teiesti.proxy</groupId>
 	<artifactId>proxy</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>proxy</name>
+	<description>Provides high-level algorithms and data structures for proxy objects.</description>
+
+	<url>https://github.com/teiesti/proxy</url>
+
+	<developers>
+		<developer>
+			<id>teiesti</id>
+			<name>Tobias Stolzmann</name>
+			<email>tobias.stolzmann@gmail.com</email>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+	<scm>
+		<connection>scm:git:git@github.com/teiesti/proxy.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/teiesti/proxy.git</developerConnection>
+		<url>https://github.com/teiesti/proxy</url>
+	</scm>
 
 	<!-- set UTF-8 encoding for compatible Maven plugins -->
 	<properties>
